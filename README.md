@@ -26,8 +26,6 @@ py,django,html,astro,c,php,nodejs,git,github,docker,css,tailwind,flask,fastapi,s
 
 ## Top Projects
 
-## Top Projects
-
 1. [Social-Media-Impact-on-Teen-Mental-Health](https://github.com/MarcelNazare/Social-Media-Impact-on-Teen-Mental-Health) 🔬
    - Description: Research-style site exploring social media's impact on teen mental health.
    - Language: HTML
