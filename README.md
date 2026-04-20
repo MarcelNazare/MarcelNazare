@@ -101,9 +101,6 @@ py,django,html,astro,c,php,nodejs,git,github,docker,css,tailwind,flask,fastapi,s
   <a href="https://twitter.com/AnalystMarcel">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://wa.me/2600976919414">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
   <a href="mailto:realmarcelnazare@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
