@@ -1,5 +1,3 @@
-## Hi there! 👋
-
 # Hi there! 👋
 
 **Marcel Nazare, The Analyst** — Blending Python with Social Work studies to build tech for impact. 🐍✨
@@ -42,22 +40,27 @@ py,django,html,astro,c,php,nodejs,git,github,docker,css,tailwind,flask,fastapi,s
    - Description: Intro to C programming — small, focused learning repo.
    - Language: C
    - Stars: 1 | Watchers: 1 | Forks: 0
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/MarcelNazare">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcelNazare&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="MarcelNazare's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcelNazare&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="MarcelNazare's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=MarcelNazare&theme=synthwave&hide_border=true&cache_seconds=86400" alt="MarcelNazare's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=MarcelNazare&theme=nightowl&hide_border=true&cache_seconds=86400" alt="MarcelNazare's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=MarcelNazare&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Marcel  Nazare's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=MarcelNazare&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Marcel  Nazare's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcelNazare&theme=synthwave&radius=10" alt="MarcelNazare's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcelNazare&theme=nightowl&radius=10" alt="MarcelNazare's Activity Graph" />
 </p>
 
-## Connect with Me
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/MarcelNazare">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcelNazare&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 ## Connect with Me
 
