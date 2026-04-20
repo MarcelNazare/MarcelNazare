@@ -12,8 +12,6 @@ I focus on creative, personal projects that prioritize meaningful outcomes over 
 
 ## About Me
 
-## About Me
-
 - Name: **Marcel Nazare, The Analyst**
 - Role: Developer blending Python, web tech and Social Work insights to build impact-driven projects.
 - Bio: "Blending Python with Social Work studies to build tech for impact. 🐍✨ I’m all about personal projects & good vibes, choosing creative builds over the grind."
