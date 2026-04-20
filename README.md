@@ -64,7 +64,6 @@ py,django,html,astro,c,php,nodejs,git,github,docker,css,tailwind,flask,fastapi,s
 - 🐱 GitHub: [MarcelNazare](https://github.com/MarcelNazare)
 - 🔗 Website / Blog: https://tr.ee/sjGbSG
 
-Social links not listed on the profile (Twitter, LinkedIn, email). Feel free to open an issue or discussion on any repo or reach out via GitHub if you'd like to collaborate! ✨
 
 Badges:
 
