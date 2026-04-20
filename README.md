@@ -1,10 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Marcel%20%20Nazare&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Marcel Nazare, The Analyst</h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=MarcelNazare">
-    <img src="https://komarev.com/ghpvc/?username=MarcelNazare&label=Profile%20views&color=00FFFF&style=flat-square" alt="MarcelNazare's profile views" />
-  </a>
-</p>
 
 **Marcel Nazare, The Analyst** — Blending Python with Social Work studies to build tech for impact. 🐍✨
 
