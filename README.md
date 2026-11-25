@@ -140,9 +140,15 @@ A multi-page booking website concept for a fictional cleaning company.
 ---
 
 ## GitHub Statistics
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="Marcel Nazare's GitHub Streak"
+    width="70%"
+  />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MarcelNazare&theme=dracula)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarcelNazare&theme=dracula" alt="GitHub Streak" /></a>
 ---
 
 ## Connect With Me
