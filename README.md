@@ -141,14 +141,7 @@ A multi-page booking website concept for a fictional cleaning company.
 
 ## GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcelNazare&show_icons=true&theme=nightowl&hide_border=true&cache_seconds=7200" alt="Marcel's GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=MarcelNazare&theme=nightowl&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcelNazare&theme=nightowl&hide_border=true&radius=10" alt="GitHub Activity Graph" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarcelNazare&theme=dracula)](https://git.io/streak-stats)
 
 ---
 
