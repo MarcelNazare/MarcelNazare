@@ -45,33 +45,25 @@ My philosophy is simple: **Build things that work. Understand what matters. Keep
 
 A selection of things I've been building and experimenting with.
 
-### 📈 Financial Technology & Market Analysis
+## Featured Projects
 
-**[Gold-SMC](https://github.com/MarcelNazare/gold-smc)**  
-A gold trading analysis project focused on five-minute liquidity sweeps, Change of Character (CHoCH), and Fair Value Gaps (FVG).
+A selection of software, analytics, research, and automation projects I've built and experimented with.
 
-**[LiquidityTracker](https://github.com/MarcelNazare/LiquidityTracker)**  
-A Go-based signal scanner and backtester for liquidity-trap trading strategies.
+### 📊 Data Analytics & Business Intelligence
 
-**[AURUM-ZONES](https://github.com/MarcelNazare/AURUM-ZONES)**  
-A Python system for gold market analysis, identifying high-probability entry zones, calculating directional bias, and generating trade parameters.
+**[Superstore-Sales-Project](https://github.com/MarcelNazare/Superstore-Sales-Project)**  
+A retail sales analytics project exploring business data and sales performance.
 
-**[Aurum](https://github.com/MarcelNazare/Aurum)**  
-A terminal-based ICT scanner for XAUUSD, detecting liquidity sweeps, market structure shifts, FVGs, and supply-and-demand zones.
+**[KPI-Generator](https://github.com/MarcelNazare/KPI-Generator)**  
+A Python project focused on generating Key Performance Indicators (KPIs).
 
-**[Aurifer](https://github.com/MarcelNazare/Aurifer)**  
-A gold trading strategy backtester designed to evaluate strategies honestly and identify when market conditions do not justify trading.
-
-**[TradingTelegramBot](https://github.com/MarcelNazare/TradingTelegramBot)**  
-A Python-based forex signal bot that sends ATR-adaptive trade setups to Telegram, incorporating risk management and disciplined position sizing.
+**[Tanzania Tourism Expenditure Classifier](https://github.com/MarcelNazare/Tanzania-Tourism-Expenditure-Classifier)**  
+A machine learning project focused on classifying tourist expenditure categories using Tanzania tourism survey data.
 
 ### 🤖 AI, Automation & Productivity
 
 **[Ofesi](https://github.com/MarcelNazare/ofesi)**  
 An offline AI office team designed to support Zambian solopreneurs.
-
-**[Cushion](https://github.com/MarcelNazare/Cushion)**  
-A developer-focused security budget that tracks how much security overhead individual changes introduce.
 
 **[FitMyCV](https://github.com/MarcelNazare/fitmycv)**  
 A tool designed to tailor resumes and cover letters to individual job opportunities.
@@ -79,10 +71,31 @@ A tool designed to tailor resumes and cover letters to individual job opportunit
 **[WhatsAppLeadCapture](https://github.com/MarcelNazare/WhatsAppLeadCapture)**  
 A lightweight JavaScript project for capturing and directing business leads through WhatsApp.
 
-### 📊 Data Science & Research
+**[Brand-Strategy-Generator](https://github.com/MarcelNazare/Brand-Strategy-Generator)**  
+A Python project exploring automated brand strategy generation.
 
-**[Tanzania Tourism Expenditure Classifier](https://github.com/MarcelNazare/Tanzania-Tourism-Expenditure-Classifier)**  
-A machine learning project focused on classifying tourist expenditure categories using Tanzania tourism survey data.
+**[BatchHtmlToJpgConverter](https://github.com/MarcelNazare/BatchHtmlToJpgConverter)**  
+A Python utility for converting HTML files into JPG images through batch processing.
+
+### 📈 Financial Technology & Market Analysis
+
+**[Gold-SMC](https://github.com/MarcelNazare/gold-smc)**  
+A gold trading analysis project focused on liquidity sweeps, Change of Character (CHoCH), and Fair Value Gaps (FVG).
+
+**[LiquidityTracker](https://github.com/MarcelNazare/LiquidityTracker)**  
+A Go-based signal scanner and backtester for liquidity-trap trading strategies.
+
+**[AURUM-ZONES](https://github.com/MarcelNazare/AURUM-ZONES)**  
+A Python system for gold market analysis, identifying entry zones and generating trade parameters.
+
+**[Aurum](https://github.com/MarcelNazare/Aurum)**  
+A terminal-based ICT scanner for XAUUSD, detecting liquidity sweeps, market structure shifts, FVGs, and supply-and-demand zones.
+
+**[Aurifer](https://github.com/MarcelNazare/Aurifer)**  
+A gold trading strategy backtester designed to evaluate strategies and market conditions.
+
+**[TradingTelegramBot](https://github.com/MarcelNazare/TradingTelegramBot)**  
+A Python-based forex signal bot that sends trade setups to Telegram, incorporating risk management and position sizing.
 
 ### 🛠️ Systems & Developer Tools
 
@@ -92,22 +105,36 @@ A native PWA launcher for Windows, designed as a lightweight alternative to heav
 **[AutoGit](https://github.com/MarcelNazare/AutoGit)**  
 A C command-line utility designed to simplify Git workflows, including remote configuration, staging, commits, and pushing.
 
+**[Cushion](https://github.com/MarcelNazare/Cushion)**  
+A developer-focused security budget that tracks security overhead introduced by individual changes.
+
 **[SoundCLI](https://github.com/MarcelNazare/soundcli)**  
 A terminal-based music downloader project.
 
 ### 🌐 Web Development & Digital Products
 
 **[Wona Design Studio](https://github.com/MarcelNazare/Wona-Design-Studio-Site)**  
-A responsive website for a creative studio focused on brand strategy, identity, and digital experiences.
+A website for a creative studio focused on brand strategy, identity, and digital experiences.
+
+**[Pangana-Fleet](https://github.com/MarcelNazare/Pangana-Fleet)**  
+An official website developed for Pangana Fleet.
 
 **[Hair Studio Demo](https://github.com/MarcelNazare/Hair-Studio-Demo)**  
 A demonstration storefront for hair businesses, showcasing products and simplifying customer enquiries.
 
 **[Lead Generation Demo](https://github.com/MarcelNazare/Lead-Generation-Demo)**  
-A mobile-first website concept for a fictional management consultancy.
+A mobile-first website concept for a management consultancy.
 
 **[Trust and Booking Demo](https://github.com/MarcelNazare/Trust-and-Booking-Demo)**  
-A multi-page booking website concept for a fictional cleaning company.
+A multi-page booking website concept for a cleaning company.
+
+### 🔬 Research, Learning & Social Impact
+
+**[Social-Media-Impact-on-Teen-Mental-Health](https://github.com/MarcelNazare/Social-Media-Impact-on-Teen-Mental-Health)**  
+A research-style website exploring social media's impact on teen mental health.
+
+**[ICU_STARTER](https://github.com/MarcelNazare/ICU_STARTER)**  
+An introductory C programming repository containing small, focused learning projects.
 
 ---
 
