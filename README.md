@@ -62,12 +62,6 @@ A machine learning project focused on classifying tourist expenditure categories
 
 ### 🤖 AI, Automation & Productivity
 
-**[Ofesi](https://github.com/MarcelNazare/ofesi)**  
-An offline AI office team designed to support Zambian solopreneurs.
-
-**[FitMyCV](https://github.com/MarcelNazare/fitmycv)**  
-A tool designed to tailor resumes and cover letters to individual job opportunities.
-
 **[WhatsAppLeadCapture](https://github.com/MarcelNazare/WhatsAppLeadCapture)**  
 A lightweight JavaScript project for capturing and directing business leads through WhatsApp.
 
