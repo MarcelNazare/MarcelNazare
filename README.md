@@ -50,11 +50,14 @@ A selection of software, analytics, research, and automation projects I've built
 **[Superstore-Sales-Project](https://github.com/MarcelNazare/Superstore-Sales-Project)**  
 A retail sales analytics project exploring business data and sales performance.
 
-**[KPI-Generator](https://github.com/MarcelNazare/KPI-Generator)**  
-A Python project focused on generating Key Performance Indicators (KPIs).
+**[Zambia IPC Vulnerability Tracker>](https://github.com/MarcelNazare/Zambia-IPC-Vulnerability-Tracker)**  
+An automated data pipeline designed to ingest, normalize, analyze, and visualize Zambia's Integrated Food Security Phase Classification (IPC) Acute Food Insecurity data. 
 
 **[Tanzania Tourism Expenditure Classifier](https://github.com/MarcelNazare/Tanzania-Tourism-Expenditure-Classifier)**  
 A machine learning project focused on classifying tourist expenditure categories using Tanzania tourism survey data.
+
+**[KPI-Generator](https://github.com/MarcelNazare/KPI-Generator)**  
+A Python project focused on generating Key Performance Indicators (KPIs).
 
 ### 🖥️ Desktop Applications & Productivity Tools
 
