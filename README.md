@@ -59,6 +59,9 @@ A machine learning project focused on classifying tourist expenditure categories
 **[KPI-Generator](https://github.com/MarcelNazare/KPI-Generator)**  
 A Python project focused on generating Key Performance Indicators (KPIs).
 
+**[Dashboard-KPI-Generator](https://github.com/MarcelNazare/Dashboard-KPI-Generator)**  
+A Python CLI tool that uses Google Gemini to turn CSV schemas into executive Power BI KPI catalogs, multi-page dashboard blueprints, and DAX measures.
+
 ### 🖥️ Desktop Applications & Productivity Tools
 
 **[Winnow](https://github.com/MarcelNazare/Winnow)**  
