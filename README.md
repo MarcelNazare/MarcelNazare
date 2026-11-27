@@ -60,6 +60,14 @@ A Python project focused on generating Key Performance Indicators (KPIs).
 **[Tanzania Tourism Expenditure Classifier](https://github.com/MarcelNazare/Tanzania-Tourism-Expenditure-Classifier)**  
 A machine learning project focused on classifying tourist expenditure categories using Tanzania tourism survey data.
 
+### 🖥️ Desktop Applications & Productivity Tools
+
+**[Winnow](https://github.com/MarcelNazare/Winnow)**  
+A desktop productivity application designed to streamline workflows through a modern, lightweight interface.
+
+**[Reeve](https://github.com/MarcelNazare/Reeve)**  
+A native PWA launcher for Windows, designed as a lightweight alternative to heavyweight Electron-based applications.
+
 ### 🤖 AI, Automation & Productivity
 
 **[WhatsAppLeadCapture](https://github.com/MarcelNazare/WhatsAppLeadCapture)**  
@@ -92,9 +100,6 @@ A gold trading strategy backtester designed to evaluate strategies and market co
 A Python-based forex signal bot that sends trade setups to Telegram, incorporating risk management and position sizing.
 
 ### 🛠️ Systems & Developer Tools
-
-**[Reeve](https://github.com/MarcelNazare/Reeve)**  
-A native PWA launcher for Windows, designed as a lightweight alternative to heavyweight Electron-based applications.
 
 **[AutoGit](https://github.com/MarcelNazare/AutoGit)**  
 A C command-line utility designed to simplify Git workflows, including remote configuration, staging, commits, and pushing.
