@@ -43,10 +43,6 @@ My philosophy is simple: **Build things that work. Understand what matters. Keep
 
 ## Featured Projects
 
-A selection of things I've been building and experimenting with.
-
-## Featured Projects
-
 A selection of software, analytics, research, and automation projects I've built and experimented with.
 
 ### 📊 Data Analytics & Business Intelligence
