@@ -50,7 +50,7 @@ A selection of software, analytics, research, and automation projects I've built
 **[Superstore-Sales-Project](https://github.com/MarcelNazare/Superstore-Sales-Project)**  
 A retail sales analytics project exploring business data and sales performance.
 
-**[Superstore-Sales-Project](https://github.com/MarcelNazare/Social-Media-Impact-on-Teen-Mental-Health)**  
+**[Social Media Impact On Teen Mental Health](https://github.com/MarcelNazare/Social-Media-Impact-on-Teen-Mental-Health)**  
 Data analysis and predictive modeling on social media's impact on teen mental health and academic performance, with policy recommendations.
 
 **[Zambia IPC Vulnerability Tracker>](https://github.com/MarcelNazare/Zambia-IPC-Vulnerability-Tracker)**  
